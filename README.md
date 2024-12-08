@@ -1,5 +1,5 @@
 # Demo git repository
-
+Before using files from my git repo , please have a look at README.md file
 
 
 This is the first file in git repo.
